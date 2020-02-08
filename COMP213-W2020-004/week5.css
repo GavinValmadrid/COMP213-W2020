@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:#49166D;
+    background-color: pink;
+}
+ul {
+    list-style-image: url("./image/aball.gif");
+}
+
+#mainContent {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.oddRow {
+    background-color: silver;
+}
+.evenRow {
+    background-color: magenta;
+}
